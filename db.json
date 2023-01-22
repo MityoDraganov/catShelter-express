@@ -1,0 +1,17 @@
+{
+  "breeds": [],
+  "cats": [
+    {
+      "id": 1,        
+      "name": "zoro",
+      "description": "some cat",
+      "breed": "Fluffy Cat"
+    },
+    {
+      "id": 2,
+      "name": "zoro",
+      "description": "some cat",
+      "breed": "Fluffy Cat"
+    }
+  ]
+}
