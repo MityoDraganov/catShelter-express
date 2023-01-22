@@ -21,6 +21,12 @@
       "description": "pesho the cat",
       "breed": "Fluffy Cat",
       "id": 3
+    },
+    {
+      "name": "test",
+      "description": "test",
+      "breed": "kane korke",
+      "id": 4
     }
   ]
 }

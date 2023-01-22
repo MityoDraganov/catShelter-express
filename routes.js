@@ -12,13 +12,17 @@ router.get('/cats/add-breed', (req, res) =>{
 
     res.render('addBreed')
 })
+//CAT EDIT
+router.get('/cats/adit-cat', catControler.editCat)
 
+router.get('/cats/edit/:id', viewControler.detailsView)
 
 //CAT CREATION (CRUD)
 router.post('/cats/add-cat', catControler.createCat)
 
 //BREED CREATION (CRUD)
 router.post('/cats/add-breed', catControler.createBreed)
+
 
 
 
