@@ -3,6 +3,10 @@ Softuni project made with express.js
 
 <br>
 <br>
+DOCUMENTATION AND REQUIREMENTS OF PROJECT: in "01. Cat-Shelter-Workshop-NodeJS.docx"
+
+<br>
+<br>
 
 $npm i
 <br>
