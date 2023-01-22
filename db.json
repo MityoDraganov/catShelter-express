@@ -1,5 +1,8 @@
 {
-  "breeds": [],
+  "breeds": [
+    "kane korke",
+    "flufy cat"
+  ],
   "cats": [
     {
       "id": 1,
