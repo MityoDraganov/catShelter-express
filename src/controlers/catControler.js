@@ -7,4 +7,11 @@ exports.createCat = (req, res) =>{
     const cat = new Cat(name, description, breed)
     console.log(cat)
     cat.save()
+
+
+    res.redirect('/')
+}
+
+exports.createBreed = (req, res) => {
+    
 }

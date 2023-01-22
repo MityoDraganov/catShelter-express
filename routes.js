@@ -1,10 +1,7 @@
 const router = require('express').Router()
 const catControler = require('./src/controlers/catControler')
-
-router.get('/', (req, res) =>{
-
-    res.render('index', {layout: "home"})
-})
+const viewControler = require('./src/controlers/viewControler')
+router.get('/', viewControler.getHome)
 
 router.get('/cats/add-cat', (req, res) =>{
 

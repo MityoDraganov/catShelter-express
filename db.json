@@ -2,7 +2,7 @@
   "breeds": [],
   "cats": [
     {
-      "id": 1,        
+      "id": 1,
       "name": "zoro",
       "description": "some cat",
       "breed": "Fluffy Cat"
@@ -12,6 +12,12 @@
       "name": "zoro",
       "description": "some cat",
       "breed": "Fluffy Cat"
+    },
+    {
+      "name": "pesho",
+      "description": "pesho the cat",
+      "breed": "Fluffy Cat",
+      "id": 3
     }
   ]
 }
