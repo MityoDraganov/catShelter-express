@@ -5,8 +5,8 @@ const router = require('./routes')
 const app = express()
 viewEngine(app)
 
+app.use(express.static('public'))
 app.use(router)
-
 
 
 
