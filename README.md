@@ -5,16 +5,19 @@ Softuni project made with express.js
 <br>
 
 $npm i
+<br>
   install dependencies
   
   <br>
   <br>
   
 $npm start
+<br>
   start project normaly on port:5000 host: localhost: link: http://localhost:5000
   
   <br>
   <br>
   
 $npm run dev
+<br>
   start project using NODEMON (autorefresh) (dev dependencies) on port:5000 host: localhost: link: http://localhost:5000
